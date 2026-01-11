@@ -11,8 +11,7 @@ const Home = () => {
         </h2>
 
         <p className="text-gray-400 leading-relaxed">
-          and MERN stack Developer.
-          Currently working as Deputy Manager.
+        MERN stack Developer. Currently working as Deputy Manager.
         </p>
 
         <div className="mt-8 flex justify-center gap-4">
