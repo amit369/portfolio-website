@@ -7,13 +7,12 @@ const Home = () => {
         </h1>
 
         <h2 className="text-2xl mb-6 text-gray-300">
-          Full Stack Developer | Java | MERN
+          Full Stack Developer | MERN
         </h2>
 
         <p className="text-gray-400 leading-relaxed">
-          Backend-focused developer with 8+ years of IT experience.
-          Specialized in Java Spring Boot, REST APIs, and MERN stack.
-          Currently working as Specialist Officer (Scale II).
+          and MERN stack Developer.
+          Currently working as Deputy Manager.
         </p>
 
         <div className="mt-8 flex justify-center gap-4">
