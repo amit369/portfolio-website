@@ -13,11 +13,7 @@ const About = () => {
           serve as a Deputy Manager in Bank of Baroda.
         </p>
 
-        <p className="text-gray-700 leading-relaxed">
-          My strength lies in backend development using Java Spring Boot,
-          designing scalable REST APIs, and building modern web
-          applications using React and Node.js.
-        </p>
+      
       </div>
     </section>
   );
