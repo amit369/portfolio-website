@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const Home = () => {
   return (
     <section className="min-h-screen flex items-center justify-center bg-gray-900 text-white px-6">
@@ -15,18 +17,18 @@ const Home = () => {
         </p>
 
         <div className="mt-8 flex justify-center gap-4">
-          <a
-            href="/projects"
+          <Link
+            to="/projects"
             className="px-6 py-3 bg-blue-500 rounded-lg hover:bg-blue-600"
           >
             View Projects
-          </a>
-          <a
-            href="/contact"
+          </Link>
+          <Link
+            to="/contact"
             className="px-6 py-3 border border-blue-400 rounded-lg hover:bg-blue-400 hover:text-black"
           >
             Contact Me
-          </a>
+          </Link>
         </div>
       </div>
     </section>
