@@ -7,10 +7,10 @@ const About = () => {
         </h2>
 
         <p className="text-gray-700 leading-relaxed mb-4">
-          I am a Full Stack Developer with over 8 years of experience
+          I am a Full Stack Developer with over 9 years of experience
           in enterprise-level applications. I have worked with
           organizations like TCS, Finvasia, CMS Computers, and currently
-          serve as a Specialist Officer in Bank of Baroda.
+          serve as a Deputy Manager in Bank of Baroda.
         </p>
 
         <p className="text-gray-700 leading-relaxed">
